@@ -4,8 +4,10 @@ This is the first app I've written which will open an Excel spreadsheet, apparen
 
 The example given was for a WinForms app, but I believe written in .NET. I'll do that, if I have to. But I'd rather do it using WPF. But even that, I don't want to do. I'd rather use MAUI. But for now, I want to get a way of opening an Excel spreadsheet working.
 
-The spreadsheet is named "Sample Excel Spreadsheet.xlsx". It is in my OneDrive.
+## .NET Framework
 
-## .NET
+4.8.1
 
-9
+## Will merge the child branch back into main
+
+I've decided that I'll close this project off and create a new one, based on .NET 9.0 (I hope). But I want to keep this code, so I'll merge it back into main.
